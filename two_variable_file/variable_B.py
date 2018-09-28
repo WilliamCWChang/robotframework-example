@@ -1,0 +1,5 @@
+target_firmware_version = "V0.9.0_Build18081619"
+target_firmware_version_build_date = "18081619"
+target_firmware_version_wo_build_date = "0.9.0"
+target_serial_num = "qwas12344321"
+target_mac_address = "00:90:e8:ea:b4:32"
